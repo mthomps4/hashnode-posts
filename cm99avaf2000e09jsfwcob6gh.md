@@ -1,18 +1,19 @@
 ---
 title: "Intro: Software Development a Woodworkers Perspective"
+seoTitle: "Intro: Software Development a Woodworkers Perspective"
+seoDescription: "A quick intro before I highlighting the intertwining of both Software and Woodworking."
 datePublished: Tue Jan 01 2019 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm99avaf2000e09jsfwcob6gh
 slug: software-development-a-woodworkers-perspective
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1744165101432/63510cfe-648a-4e1c-b761-a6d4e6fa34f0.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1744165594749/5c72a87f-59a0-41e0-93d6-e61d133a1855.png
+tags: software-development, woodworking
 
 ---
 
+Photo by [Matt Thompson \_mthomps4](https://instagram.com/_mthomps4)
 
-<img src="https://raw.githubusercontent.com/mthomps4/posts/master/posts/software_development_a_woodworkers_perspective/images/intro/3wirebuild2.png" alt="featured.png" class="featured-image">
-
-Photo by [Matt Thompson _mthomps4](https://instagram.com/_mthomps4)
-
-If you want to start reading [A Woodworker's Perspective Part 1](https://mthomps4.com/blog/2019/part-1-planning_and_preparation) instead of reading this article detailing my career path to Software Developer by day and Woodworker by night, you won't hurt my feelings.
+If you want to start reading [A Woodworker's Perspective Part 1](https://mthomps4.com/part-1-planning_and_preparation) instead of reading this article detailing my career path to Software Developer by day and Woodworker by night, you won't hurt my feelings.
 
 ## A bit about me…
 
@@ -22,7 +23,7 @@ In truth, I didn't understand a lot as a kid, but I wanted to. I studied and dab
 
 ## *Fast-forward a few years…*
 
-Not a lot has changed. I still describe myself as a "builder", and I still have an interest in *all the things* with a hundred ideas, hoping one day to merge them into something bigger than myself.*.* For now, it's a dream. Honestly, like many others, my work has always been with an attitude, a chip on my shoulder. What's needed to survive and to provide? What does it take to keep moving forward? For any Luke Cage fans out there, the quote *"Never backward, always forward. Always."* comes to mind*.*
+Not a lot has changed. I still describe myself as a "builder", and I still have an interest in *all the things* with a hundred ideas, hoping one day to merge them into something bigger than myself.*.* For now, it's a dream. Honestly, like many others, my work has always been with an attitude, a chip on my shoulder. What's needed to survive and to provide? What does it take to keep moving forward? For any Luke Cage fans out there, the quote *"Never backward, always forward. Always."* comes to mind\*.\*
 
 ## It's about the process... create ways to step away
 
@@ -38,10 +39,12 @@ I'll be referencing a few books throughout as they've helped reinforced my own t
 
 I plan to document and highlight some of these preferred habits and relate them to my day-to-day as a software developer. To start... Let's make a box!
 
-[Part 1: Planning and Preparation](https://mthomps4.com/blog/2019/part-1-planning-and-preparation)
+[Part 1: Planning and Preparation](https://mthomps4.com/part-1-planning-and-preparation)
 
 **Books:**
 
-- [Handmade — Gary Rogowski](https://www.amazon.com/Handmade-Creative-Focus-Age-Distraction/dp/1610353145/ref=sr_1_1?s=books&ie=UTF8&qid=1546869438&sr=1-1&keywords=handmade+gary+rogowski)
-- [The How and Why of Woodworking — Michael Pekovich](https://www.amazon.com/Why-How-Woodworking-Approach-Meaningful/dp/1631869272/ref=sr_1_1?s=books&ie=UTF8&qid=1546869385&sr=1-1&keywords=how+and+why+of+woodworking)
-- [Shop Class as Soulcraft — Matthew Crawford](https://www.amazon.com/Shop-Class-Soulcraft-Inquiry-Value/dp/0143117467)
+* [Handmade — Gary Rogowski](https://www.amazon.com/Handmade-Creative-Focus-Age-Distraction/dp/1610353145/ref=sr_1_1?s=books&ie=UTF8&qid=1546869438&sr=1-1&keywords=handmade+gary+rogowski)
+    
+* [The How and Why of Woodworking — Michael Pekovich](https://www.amazon.com/Why-How-Woodworking-Approach-Meaningful/dp/1631869272/ref=sr_1_1?s=books&ie=UTF8&qid=1546869385&sr=1-1&keywords=how+and+why+of+woodworking)
+    
+* [Shop Class as Soulcraft — Matthew Crawford](https://www.amazon.com/Shop-Class-Soulcraft-Inquiry-Value/dp/0143117467)
